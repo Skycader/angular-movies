@@ -1,0 +1,9 @@
+$color: red;
+$fontSize: 40px;
+$border: 2px solid red;
+h1 {
+  $color: green;
+  color: $color;
+  font-size: $fontSize;
+  border: $border;
+}
